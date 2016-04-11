@@ -1,3 +1,3 @@
 # Weather reader
-## Intended generic
+## Intended generic ish
 Simple utility to read data from weather station
