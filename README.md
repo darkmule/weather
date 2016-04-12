@@ -5,11 +5,8 @@ Simple utility to read data from weather station. Intended to be generic in desi
 
 ##Structure
 
-├── README.md
-├── deploy.py 		#Script to deploy the infrastucture and code
-├── agents
-	├──ahent_one	#Agent to do some stuff
-├── documentation
+├── LICENSE
+└── README.md
 
 ##Iinstallation
 **You must have an AWS accoint for this to work
@@ -22,4 +19,10 @@ $ install -h
 1. Some ham
 2. Some cheese
 3. Some bread
+
+
+##Targets
+Tested with:
+1. Davis
+2. Some other
 
